@@ -1,1 +1,1 @@
-this is the git directory
+Git directory
